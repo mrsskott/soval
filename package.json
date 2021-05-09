@@ -15,7 +15,7 @@
     "docx": "^5.0.0-rc1",
     "express": "^4.15.2",
     "express-fileupload": "^1.1.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "subsrt": "^1.0.0"
   },
   "devDependencies": {
